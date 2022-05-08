@@ -1,5 +1,6 @@
 <div align="center" style="text-align: center; margin-bottom: 10px;">
     <a style="margin: 10px; font-size: 16px;" href="https://github.com/ImOnlyHereForLinkedin">Github</a>
+        <a style="margin: 10px; font-size: 16px;" href="mailto:muscali04@gmail.com">Email</a>
     <p>Email (or connect via LinkedIn) for any questions, requests to work on a project, or any other query.</p>
 </div>
 
@@ -7,8 +8,7 @@
 
 **Studying**:
 - Mathematics (A Level)
-- Information Technology (A Level)
-- EPQ (A Level)
+- Information Technology (RQF)
 
 **Age**: 18yo
 
